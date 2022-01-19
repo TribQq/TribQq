@@ -1,5 +1,5 @@
 <!-- ### Hi there 👋 -->
-![header](https://github.com/TribQq/TribQq/blob/main/assets/headerV2.gif)
+![header](https://github.com/TribQq/TribQq/blob/main/assets/headerV2fixed.webp)
 
 
   <!-- <style>
