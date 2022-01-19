@@ -2,11 +2,11 @@
 ![header](https://github.com/TribQq/TribQq/blob/main/assets/headerV2fixed.webp)
 
 
-  <!-- <style>
+  <style>
    .text_in_tag {
-    margin-bottom: 5px; /* Отрицательный отступ между заголовком и текстом */
+    margin-top: -5px; /* Отрицательный отступ между заголовком и текстом */
    }
-  </style> -->
+  </style>
 
 <p >About me :</p>
 <p class='text_in_tag'>Hi ,i Ivan 👋</p>
@@ -15,7 +15,7 @@
 
 
 
-Languages & Tools:
+Languages & Tools: 
 ![Django](https://img.shields.io/badge/Django-white?style=flat&logo=Django&logoColor=007D21&)
 ![Python](https://img.shields.io/badge/Python-white?style=flat&logo=Python&logoColor=4C5CD8)
 ![JavaScript](https://img.shields.io/badge/JavaScript-white?style=flat&logo=JavaScript&logoColor=FFAB00)
@@ -24,8 +24,9 @@ Languages & Tools:
 ![SQL](https://img.shields.io/badge/SQL-white?style=flat&logo=SQLite&logoColor=4C5CD8)
 ![Git](https://img.shields.io/badge/GIT-white?style=flat&logo=GIT&logoColor=A63800)
 ![GitHub](https://img.shields.io/badge/GITHUB-white?style=flat&logo=GITHUB&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-white?style=flat&logo=Linux&logoColor=black)
 
-Contact me(link):
+Contact me( link ):
 <a href='https://t.me/Qq_user'>![Telegram](https://img.shields.io/badge/Tg-white?style=plastic&logo=Telegram&logoColor=)</a>
 
 
