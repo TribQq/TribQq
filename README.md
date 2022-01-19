@@ -2,11 +2,11 @@
 ![header](https://github.com/TribQq/TribQq/blob/main/assets/headerV2fixed.webp)
 
 
-  <style>
+<!--   <style>
    .text_in_tag {
     margin-top: -5px; /* Отрицательный отступ между заголовком и текстом */
    }
-  </style>
+  </style> -->
 
 <p >About me :</p>
 <p class='text_in_tag'>Hi ,i Ivan 👋</p>
