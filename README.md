@@ -8,25 +8,47 @@
    }
   </style> -->
 
-<p >About me :</p>
-<p class='text_in_tag'>Hi ,i Ivan 👋</p>
-<p class='text_in_tag'> *place for something interesting*</p>
-<p class='text_in_tag'> *my github-cat  guards this void* <img class="emoji" title=":octocat:" alt=":octocat:" src="https://github.githubassets.com/images/icons/emoji/octocat.png" height="20" width="20" align="absmiddle"></p>
+
+```
+         _____________________________________
+        /  _________________________________  \
+        |  |                                |  |
+        |  |  C:\> _ Hi there ,I'm Ivan 👋  |  |
+        |  |                                |  |
+        |  |🙌I like progmramming           |  |
+        |  |  because it's interesting      |  |
+        |  |  for me to create something.   |  |
+        |  |                                |  |
+        |  |🐼I will be glad to share my exp|  |
+        |  | and learn from other developers|  |
+        |  |________________________________|  |
+        \____________________________________/
+            \_____________________________/
+            __________________________________
+          _-'   .-.-.-.-.-.-.-.-.-.-.-.  --- `-_
+      _-'.-.-..---.-.-.-.-.-.-.-.-.-.--.  .-.-.`-_
+    _-'.-.-.-. ---.-.-.-.-.-.-.-.-.-.-`__`. .-.-.-.`-_
+  :---------------------------------------------------: 
+ ``` 
 
 
+##### Languages & Tools:
+<a href=''>
 
-Languages & Tools: 
 ![Django](https://img.shields.io/badge/Django-white?style=flat&logo=Django&logoColor=007D21&)
 ![Python](https://img.shields.io/badge/Python-white?style=flat&logo=Python&logoColor=4C5CD8)
 ![JavaScript](https://img.shields.io/badge/JavaScript-white?style=flat&logo=JavaScript&logoColor=FFAB00)
 ![Html](https://img.shields.io/badge/HTML-white?style=flat&logo=HTML5&logoColor=FF5600)
 ![CSS](https://img.shields.io/badge/CSS-white?style=flat&logo=CSS3&logoColor=FF5600)
 ![SQL](https://img.shields.io/badge/SQL-white?style=flat&logo=SQLite&logoColor=4C5CD8)
-![Git](https://img.shields.io/badge/GIT-white?style=flat&logo=GIT&logoColor=A63800)
-![GitHub](https://img.shields.io/badge/GITHUB-white?style=flat&logo=GITHUB&logoColor=black)
+![Git](https://img.shields.io/badge/Git-white?style=flat&logo=GIT&logoColor=A63800)
+![GitHub](https://img.shields.io/badge/GitHub-white?style=flat&logo=GITHUB&logoColor=black)
 ![Linux](https://img.shields.io/badge/Linux-white?style=flat&logo=Linux&logoColor=black)
+</a>
 
-Contact me( link ):
+<p> </p>
+
+##### Contact me( :link: link ):
 <a href='https://t.me/Qq_user'>![Telegram](https://img.shields.io/badge/Tg-white?style=plastic&logo=Telegram&logoColor=)</a>
 
 
