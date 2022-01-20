@@ -10,7 +10,7 @@
   </style> -->
 
 
-<a href=''> <img align="right" alt="GIF" src="https://github.com/TribQq/TribQq/blob/main/assets/coding1crop.gif?raw=true" width="400"  /> </a>
+<a href='https://github.com/TribQq'> <img align="right" alt="GIF" src="https://github.com/TribQq/TribQq/blob/main/assets/coding1crop.gif?raw=true" width="400"  /> </a>
 
 <!-- <img align="right" alt="GIF" src="https://github.com/TribQq/TribQq/blob/main/assets/coding7.gif?raw=true"  /> -->
 
