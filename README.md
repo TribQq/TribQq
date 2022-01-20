@@ -33,7 +33,7 @@
 
 
 ##### Languages & Tools:
-<a href=''>
+<a href='https://github.com/TribQq'>
 
 ![Django](https://img.shields.io/badge/Django-white?style=flat&logo=Django&logoColor=007D21&)
 ![Python](https://img.shields.io/badge/Python-white?style=flat&logo=Python&logoColor=4C5CD8)
