@@ -38,7 +38,7 @@
 ```
 
 
-##### Languages & Tools:
+##### ᕦʕᵔᴥᵔʔᕥ Languages & Tools:
 <a href='https://github.com/TribQq'>
 
 ![Django](https://img.shields.io/badge/Django-white?style=flat&logo=Django&logoColor=007D21&)
@@ -54,7 +54,7 @@
 
 <p> </p>
 
-##### Contact me( :link: link ):
+##### ʕっᵔᴥᵔʔっ My contacts:
 <a href='https://t.me/Qq_user'>![Telegram](https://img.shields.io/badge/Tg-white?style=plastic&logo=Telegram&logoColor=)</a>
 
 
