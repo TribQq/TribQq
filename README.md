@@ -39,7 +39,8 @@
 
 
 ##### ᕦʕᵔᴥᵔʔᕥ Languages & Tools:
-<a href='https://github.com/TribQq'>
+
+<!-- <a href='https://github.com/TribQq'>
 
 ![Django](https://img.shields.io/badge/Django-white?style=flat&logo=Django&logoColor=007D21&)
 ![Python](https://img.shields.io/badge/Python-white?style=flat&logo=Python&logoColor=4C5CD8)
@@ -50,12 +51,35 @@
 ![Git](https://img.shields.io/badge/Git-white?style=flat&logo=GIT&logoColor=A63800)
 ![GitHub](https://img.shields.io/badge/GitHub-white?style=flat&logo=GITHUB&logoColor=black)
 ![Linux](https://img.shields.io/badge/Linux-white?style=flat&logo=Linux&logoColor=black)
+</a> -->
+
+<a href='https://github.com/TribQq'>
+   
+![Django](https://img.shields.io/badge/Django-7dc9aa?style=for-the-badge&logo=Django&logoColor=004d40&)
+![Python](https://img.shields.io/badge/Python-7dc9aa?style=for-the-badge&logo=Python&logoColor=4C5CD8)
+![JavaScript](https://img.shields.io/badge/JavaScript-7dc9aa?style=for-the-badge&logo=JavaScript&logoColor=FFAB00)
+![Html](https://img.shields.io/badge/HTML-7dc9aa?style=for-the-badge&logo=HTML5&logoColor=FF5600)
+![CSS](https://img.shields.io/badge/CSS-7dc9aa?style=for-the-badge&logo=CSS3&logoColor=FF5600)
+![SQL](https://img.shields.io/badge/SQL-7dc9aa?style=for-the-badge&logo=SQLite&logoColor=4C5CD8)
+![Git](https://img.shields.io/badge/GIT-7dc9aa?style=for-the-badge&logo=GIT&logoColor=A63800)
+![GitHub](https://img.shields.io/badge/GITHUB-7dc9aa?style=for-the-badge&logo=GITHUB&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-7dc9aa?style=for-the-badge&logo=Linux&logoColor=black)   
 </a>
 
-<p> </p>
 
 ##### ʕっᵔᴥᵔʔっ My contacts:
-<a href='https://t.me/Qq_user'>![Telegram](https://img.shields.io/badge/Tg-white?style=plastic&logo=Telegram&logoColor=)</a>
+
+
+[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/TribQq/TribQq/8ec98072bf69762297c09cf57d808d16ff60408f/assets/tgicon0.gif" />](https://t.me/Qq_user)
+
+<!-- [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/TribQq/TribQq/8ec98072bf69762297c09cf57d808d16ff60408f/assets/tgicon0.gif" />](https://t.me/Qq_user) -->
+
+<!-- <a href='https://t.me/Qq_user'>![Telegram](https://img.shields.io/badge/Tg-white?style=plastic&logo=Telegram&logoColor=)</a> -->
+
+<!-- [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/TribQq/TribQq/8ec98072bf69762297c09cf57d808d16ff60408f/assets/tgicon0.gif" />](https://github.com/TribQq)
+
+[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/TribQq/TribQq/8ec98072bf69762297c09cf57d808d16ff60408f/assets/tgicon0.gif" />][MyGithub]
+ -->
 
 
 
@@ -73,3 +97,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!-- [MyGithub]: https://github.com/TribQq -->
