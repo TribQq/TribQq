@@ -56,20 +56,27 @@
 <a href='https://github.com/TribQq'>
    
 ![Django](https://img.shields.io/badge/Django-7dc9aa?style=for-the-badge&logo=Django&logoColor=004d40&)
+![Flask](https://img.shields.io/badge/Flask-7dc9aa?style=for-the-badge&logo=Flask&logoColor=black&)
+![FastApi](https://img.shields.io/badge/FastApi-7dc9aa?style=for-the-badge&logo=FastApi&logoColor=white&)
 ![Python](https://img.shields.io/badge/Python-7dc9aa?style=for-the-badge&logo=Python&logoColor=4C5CD8)
 ![JavaScript](https://img.shields.io/badge/JavaScript-7dc9aa?style=for-the-badge&logo=JavaScript&logoColor=FFAB00)
-![Html](https://img.shields.io/badge/HTML-7dc9aa?style=for-the-badge&logo=HTML5&logoColor=FF5600)
-![CSS](https://img.shields.io/badge/CSS-7dc9aa?style=for-the-badge&logo=CSS3&logoColor=FF5600)
-![SQL](https://img.shields.io/badge/SQL-7dc9aa?style=for-the-badge&logo=SQLite&logoColor=4C5CD8)
+![Html&CSS](https://img.shields.io/badge/HTML|CSS-7dc9aa?style=for-the-badge&logo=HTML5&logoColor=FF5600)
+![SQL](https://img.shields.io/badge/SQLite|Postgtresql|Mysql-7dc9aa?style=for-the-badge&logo=SQLite&logoColor=4C5CD8)
+![MongoDB](https://img.shields.io/badge/MongoDB-7dc9aa?style=for-the-badge&logo=MongoDb&logoColor=004d40)
+![React](https://img.shields.io/badge/React-7dc9aa?style=for-the-badge&logo=React&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-7dc9aa?style=for-the-badge&logo=Docker&logoColor=blue)
 ![Git](https://img.shields.io/badge/GIT-7dc9aa?style=for-the-badge&logo=GIT&logoColor=A63800)
 ![GitHub](https://img.shields.io/badge/GITHUB-7dc9aa?style=for-the-badge&logo=GITHUB&logoColor=black)
 ![Linux](https://img.shields.io/badge/Linux-7dc9aa?style=for-the-badge&logo=Linux&logoColor=black)   
+![Shell](https://img.shields.io/badge/Shell-7dc9aa?style=for-the-badge&logo=PowerShell&logoColor=black)   
+![Go](https://img.shields.io/badge/Go-7dc9aa?style=for-the-badge&logo=Go&logoColor=blue)   
 </a>
 
 
 ##### ʕっᵔᴥᵔʔっ My contacts:
 
 
+[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/TribQq/TribQq/8ec98072bf69762297c09cf57d808d16ff60408f/assets/tgicon0.gif" />](https://t.me/Qq_user)
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/TribQq/TribQq/8ec98072bf69762297c09cf57d808d16ff60408f/assets/tgicon0.gif" />](https://t.me/Qq_user)
 
 <!-- [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/TribQq/TribQq/8ec98072bf69762297c09cf57d808d16ff60408f/assets/tgicon0.gif" />](https://t.me/Qq_user) -->
