@@ -73,7 +73,15 @@
 </a>
 
 
-#### ʕっᵔᴥᵔʔっ My contacts:
+
+<h4> |ᴥ•ʔっ Btw u can join to me on codewars</h4> 
+
+[<img align="left" alt="CSS3" width="170px" src="https://raw.githubusercontent.com/TribQq/TribQq/main/assets/codewars.jpg" />](https://www.codewars.com/users/TribQq)
+<br>
+<br>
+
+
+<h4> ʕっᵔᴥᵔʔっ My contacts:</h4> 
 
 
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/TribQq/TribQq/8ec98072bf69762297c09cf57d808d16ff60408f/assets/tgicon0.gif" />](https://t.me/Qq_user)
@@ -81,9 +89,6 @@
 [<img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/TribQq/TribQq/main/assets/mail_crop.gif" />](mailto:ivankartasov.trib@gmail.com)
 <br>
 
-<h4> |ᴥ•ʔっ Btw u can join to me on codewars</h4> 
-
-[<img align="left" alt="CSS3" width="170px" src="https://raw.githubusercontent.com/TribQq/TribQq/main/assets/codewars.jpg" />](https://www.codewars.com/users/TribQq)
 
 
 <!-- <img align="left" alt="CSS3" width="26px"  src="https://raw.githubusercontent.com/TribQq/TribQq/8ec98072bf69762297c09cf57d808d16ff60408f/assets/tgicon0.gif"> -->
