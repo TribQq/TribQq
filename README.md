@@ -74,7 +74,7 @@
 
 
 
-<h4> |ᴥ•ʔっ Btw u can join to me on codewars</h4> 
+<h4> |ᴥ•ʔっ Btw, u can join to me on codewars:</h4> 
 
 [<img align="left" alt="CSS3" width="170px" src="https://raw.githubusercontent.com/TribQq/TribQq/main/assets/codewars.jpg" />](https://www.codewars.com/users/TribQq)
 <br>
