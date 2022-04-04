@@ -56,20 +56,20 @@
 <a href='https://github.com/TribQq'>
 
 ![Python](https://img.shields.io/badge/Python-7dc9aa?style=for-the-badge&logo=Python&logoColor=4C5CD8)
-![JavaScript](https://img.shields.io/badge/JavaScript-7dc9aa?style=for-the-badge&logo=JavaScript&logoColor=FFAB00)
+![JavaScript](https://img.shields.io/badge/JavaScript|TS-7dc9aa?style=for-the-badge&logo=JavaScript&logoColor=FFAB00)
 ![Go](https://img.shields.io/badge/Go-7dc9aa?style=for-the-badge&logo=Go&logoColor=blue)   
 
 ![Django](https://img.shields.io/badge/Django-7dc9aa?style=for-the-badge&logo=Django&logoColor=004d40&)
 ![Flask](https://img.shields.io/badge/Flask-7dc9aa?style=for-the-badge&logo=Flask&logoColor=black&)
 ![FastApi](https://img.shields.io/badge/FastApi-7dc9aa?style=for-the-badge&logo=FastApi&logoColor=white&)
-![Html&CSS](https://img.shields.io/badge/HTML|CSS-7dc9aa?style=for-the-badge&logo=HTML5&logoColor=FF5600)
+![Html&CSS](https://img.shields.io/badge/HTML|CSS|SASS-7dc9aa?style=for-the-badge&logo=HTML5&logoColor=FF5600)
 ![SQL](https://img.shields.io/badge/SQLite|Postgtresql|Mysql-7dc9aa?style=for-the-badge&logo=SQLite&logoColor=4C5CD8)
 ![MongoDB](https://img.shields.io/badge/MongoDB-7dc9aa?style=for-the-badge&logo=MongoDb&logoColor=004d40)
 ![React](https://img.shields.io/badge/React-7dc9aa?style=for-the-badge&logo=React&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-7dc9aa?style=for-the-badge&logo=Docker&logoColor=blue)
 ![Git](https://img.shields.io/badge/GIT-7dc9aa?style=for-the-badge&logo=GIT&logoColor=A63800)
-![GitHub](https://img.shields.io/badge/GITHUB-7dc9aa?style=for-the-badge&logo=GITHUB&logoColor=black)
-![Linux](https://img.shields.io/badge/Linux-7dc9aa?style=for-the-badge&logo=Linux&logoColor=black)   ![Shell](https://img.shields.io/badge/Shell-7dc9aa?style=for-the-badge&logo=PowerShell&logoColor=black) 
+![GitHub](https://img.shields.io/badge/GITHUB|lab-7dc9aa?style=for-the-badge&logo=GITHUB&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-7dc9aa?style=for-the-badge&logo=Linux&logoColor=black)   ![Bash&Shell](https://img.shields.io/badge/Bash|Shell-7dc9aa?style=for-the-badge&logo=PowerShell&logoColor=black) 
 </a>
 
 
