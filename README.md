@@ -1,12 +1,19 @@
-<a href='https://github.com/TribQq'>
+<!-- <a href='https://github.com/TribQq'>
    
 ![header](https://raw.githubusercontent.com/TribQq/TribQq/main/assets/headerV2fixed.webp)
-</a>
+</a> -->
 
 
+<div style="float:right;">
+<a id="animation_anchor" href='#animation_anchor'> 
+   <img align="right" alt="GIF" src="https://github.com/TribQq/TribQq/blob/main/assets/coding1crop.gif?raw=true" width="400"  />
+   </a>
+</div>
+ 
 
-<a id="animation_anchor" href='#animation_anchor'> <img align="right" alt="GIF" src="https://github.com/TribQq/TribQq/blob/main/assets/coding1crop.gif?raw=true" width="400"  /> </a>
-
+<!--  <a id="animation_anchor" href='#animation_anchor'>
+  <img align="right" src="https://user-images.githubusercontent.com/6764957/101532175-1cda1580-39cf-11eb-92fc-8466f97122fc.png" width=200 />
+</a> -->
 
 
  ```
@@ -63,11 +70,18 @@
 
 
 <h4> ʕっᵔᴥᵔʔっ My contacts:</h4> 
+<div>
+   <a href="https://t.me/Qq_user">
+      <img style="width:26px" src="https://raw.githubusercontent.com/TribQq/TribQq/8ec98072bf69762297c09cf57d808d16ff60408f/assets/tgicon0.gif" width="26px">
+      </a>
+   <a href="mailto:ivankartasov.trib@gmail.com">
+      <img style="width:26px" src="https://raw.githubusercontent.com/TribQq/TribQq/main/assets/mail_crop.gif" width="30px">
+   </a>
+</div>
 
+<!-- [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/TribQq/TribQq/8ec98072bf69762297c09cf57d808d16ff60408f/assets/tgicon0.gif" />](https://t.me/Qq_user)
 
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/TribQq/TribQq/8ec98072bf69762297c09cf57d808d16ff60408f/assets/tgicon0.gif" />](https://t.me/Qq_user)
-
-[<img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/TribQq/TribQq/main/assets/mail_crop.gif" />](mailto:ivankartasov.trib@gmail.com)
+[<img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/TribQq/TribQq/main/assets/mail_crop.gif" />](mailto:ivankartasov.trib@gmail.com) -->
 <br>
 
 
