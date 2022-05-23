@@ -1,14 +1,14 @@
-<!-- <a href='https://github.com/TribQq'>
+<a href='https://github.com/TribQq'>
    
 ![header](https://raw.githubusercontent.com/TribQq/TribQq/main/assets/headerV2fixed.webp)
-</a> -->
+</a>
 
 
-<div style="float:right;">
+<!-- <div style="float:right;">
 <a id="animation_anchor" href='#animation_anchor'> 
    <img align="right" alt="GIF" src="https://github.com/TribQq/TribQq/blob/main/assets/coding1crop.gif?raw=true" width="400"  />
    </a>
-</div>
+</div> -->
  
 
 <!--  <a id="animation_anchor" href='#animation_anchor'>
