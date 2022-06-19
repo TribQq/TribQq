@@ -70,7 +70,8 @@
 <br>
 
 
-<h4> ʕっᵔᴥᵔʔっ My contacts:</h4> 
+<!-- <h4> ʕっᵔᴥᵔʔっ My contacts:</h4> 
+
 <div>
    <a href="https://t.me/Qq_user">
       <img style="width:26px" src="https://raw.githubusercontent.com/TribQq/TribQq/8ec98072bf69762297c09cf57d808d16ff60408f/assets/tgicon0.gif" width="26px">
@@ -79,6 +80,7 @@
       <img style="width:26px" src="https://raw.githubusercontent.com/TribQq/TribQq/main/assets/mail_crop.gif" width="30px">
    </a>
 </div>
+ -->
 
 <!-- [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/TribQq/TribQq/8ec98072bf69762297c09cf57d808d16ff60408f/assets/tgicon0.gif" />](https://t.me/Qq_user)
 
